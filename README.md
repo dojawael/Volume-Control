@@ -1,13 +1,5 @@
 # Hand Volume Control ✋🔊
 
-
-##### Volume Up 🔊⬆️         
-![alt text](image.png)      
-
-#### Volume Down
-![alt text](image-1.png)
-
-
 ##### Overview:
  This project allows you to control the volume of your system using hand gestures. It tracks the movement of your hand, specifically the distance between the thumb and index finger, and adjusts the system's volume based on that distance
 
