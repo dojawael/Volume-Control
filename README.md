@@ -11,6 +11,7 @@
     ![alt text](image.png) 
 
     - Volume Down: When the distance between your thumb and index finger is smaller, the volume is decreased.
+      
     ![alt text](image-1.png)
 
 #### Requirements:
